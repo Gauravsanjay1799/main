@@ -1,8 +1,0 @@
-Jenkins Login URL :-
-
-http://localhost:8080/login?from=%2F
-
-Gaurav
-
-Gaurav@112233
-
